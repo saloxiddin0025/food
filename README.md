@@ -21,12 +21,8 @@ python prepare_split.py
 
 ## Training
 
-Two classifiers were trained and compared on the same split:
-
-| Model | Val accuracy | Notes |
-|---|---|---|
-| **ResNet18** (`train_resnet.py`) | **98.24%** | Fine-tuned end-to-end, used in production |
-| CLIP ViT-B/32 linear probe (`train_clip_probe.py`) | 95.29% | Frozen backbone, faster to train, not used |
+ResNet18 is fine-tuned end-to-end on the split, reaching **98.24%** validation
+accuracy.
 
 ```
 python train_resnet.py
