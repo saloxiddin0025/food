@@ -1,0 +1,4538 @@
+{
+  "classes": [
+    "cheese_pizza",
+    "meat_pizza"
+  ],
+  "train": [
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1795316_jpg.rf.e355d49abf49d35e8719a87b3809c9d2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.752.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0403.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.438.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00867_jpg.rf.0a6885691a2d6d7fabb6040e0b2c4a8c.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2667244_jpg.rf.f4feb855f486d7f919104add6e732c87.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.670.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\9.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0417.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\153195_jpg.rf.4c1aba8f6622293afbf8adad09149f82.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1001116_jpg.rf.0746294577063103380aece4372e28bd.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\244505_jpg.rf.5363dc0b4b23b53d31965c42dca416da.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00470_jpg.rf.0527067bb489ca4e764b841921558718.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3906901_jpg.rf.cc5e71b8d118e1e2ce082fdb9416085e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1202925_jpg.rf.4abbef29ffeea5ef7893bf5490a6bcbe.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3514408_jpg.rf.a4e10f76cc299c2259a17dc91ea37ca9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\200.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2164255_jpg.rf.174f7fe622524cbe34b450af677a8b6d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\89.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2971095_jpg.rf.30ad3cc64dac39ddff59b6b7f972aff0.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00884_jpg.rf.521c55c32859c00701f813625d2403db.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.520.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0446.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\29.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2231356_jpg.rf.4aa8c938da6f68dd82dff104ef12cee6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0305.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\68.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\48.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\79.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\338838_jpg.rf.5d076ee0c48d31ec70ec5d3ed761f73e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\15.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\17.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3314176_jpg.rf.c418b5fd9b448096e630c245f0b83ec9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00099_jpg.rf.ee77423b712211f94670ff8d553ecf03.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3473991_jpg.rf.77303ed871df35b40e7469804dc10e60.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\271675_jpg.rf.d1e591c18ac1a26bbe5674d6773f6adf.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1173913_jpg.rf.fee2753359344999969b6cd9215b2c7a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2631321_jpg.rf.9e918a9f681efc39572912e763a4002f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1795316_jpg.rf.7e6f0baccbc1a34e74c230d526ddb6d0.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2003290_jpg.rf.f4563c524936fc841bce2488aceb5fc4.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0395.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\234.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\332231_jpg.rf.1f3087dc6c5181c9ac3f45ab70c41d00.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00884_jpg.rf.b712f0d82c147b36ea1d9d301db8c1cd.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\226472_jpg.rf.a0c76e2dde98803ee6ab03df0763b15d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (28).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3379038_jpg.rf.b051627984ba3f13872e2fa075443c4d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2992605_jpg.rf.1f36b29924424732aad1ac093ad43e0a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (10).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\268.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0335.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2997525_jpg.rf.dcac9fe70988fe0ab9fc71c2c8c8f76c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\898119_jpg.rf.8d9e92d0abb5e3332e29d04a6d074855.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\215.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\251.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (56).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1964051_jpg.rf.b9e9ad848a90e557288d3880020cf82f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0437.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\267.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\99.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\5.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.635.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00884_jpg.rf.f0035f24b48c7b7c3c23112abd501457.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00650_jpg.rf.d3335d5d0df13c9975c9ae73ce23826c.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3066951_jpg.rf.3abcd37587ba53a2452dab678ee9258a.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1991586_jpg.rf.82e754f71a26de05d8347db0801249fc.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\294.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\395034_jpg.rf.d35a1e27a9f8a17517c8c1ee091be468.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\49.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3170114_jpg.rf.6a971a31d46cc924a6fc5ad2fc83a8fc.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.646.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00650_jpg.rf.52ca6db5c1c714c51a08fc11146b05bb.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\01368_jpg.rf.a3edba3e2d0e87b621616ffad31ed4b0.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1980749_jpg.rf.e848df8d60e0a510a20eae5f16ef904a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.630.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\910419_jpg.rf.4f0f293e207065c215d5c163dce3eb12.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.650.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00904_jpg.rf.faa278ef03e6ce485ccc531b059bb386.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (43).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.549.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\398812_jpg.rf.b552d861764c3de76d976a0f4ae8d683.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\297.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\308.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\194784_jpg.rf.18109cb3163da3c5eb5045ee47941f43.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (41).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2014717_jpg.rf.339402e91bfe8aad210367f673b0337d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\395034_jpg.rf.ac8d2597f18203205b07800f60777635.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2640502_jpg.rf.077df215c8e1ef437bcd0e388cb41bf4.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\177513_jpg.rf.5d8abf41ac60d58c64729035ecbe9b8f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\287000_jpg.rf.31b01413c27f5516011198c719d91602.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.719.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0350.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0356.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (98).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\1763205_jpg.rf.92cdf985104fcbe8edc49da4850827c5.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\77.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\27963_jpg.rf.45ce66a7fe8a4ada61ed8feb2e6a4a3f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\231.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0439.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3514408_jpg.rf.f7bf192b61819c0212c4c3666357c219.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3767723_jpg.rf.123cdc56ae4f76321eb7ecad40db931d.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00666_jpg.rf.dba6d9f52aa3b751f45a4061c47a831d.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\269.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images13.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3913912_jpg.rf.c68860edd3e15485aad874a1b5b32d42.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2702825_jpg.rf.ccfa518c73d0934b76ce86b9dc900dbe.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.715.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (14).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0325.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\979955_jpg.rf.0a17f68efba28197e9441b692ea45405.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.750.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2157510_jpg.rf.eb13173e2785650b14f348cdc12cdd53.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\65128_jpg.rf.393872d7ed6c58a0cc091c8efe916663.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.738.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\556507_jpg.rf.2d8aab05598312794c2f1525de6c0584.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2754150_jpg.rf.fae70447e256752cd71e92be81433122.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (46).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2242047_jpg.rf.f8a48137f145b8d2e414ebf6599f94dc.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.562.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2019441_jpg.rf.311720afadd18ebd6443e5333236017f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\226.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3628930_jpg.rf.25cc66f1fc6248239bad405943ce07dd.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\230.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2014717_jpg.rf.222e2571329384d01407dc2804f5e2be.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\262.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0383.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1663749_jpg.rf.a5468bf5a9dbd1ac3f76db9e6ceb6cf3.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\662526_jpg.rf.d3cc5201412b3c8af618263a5ea73712.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\288.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0345.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00099_jpg.rf.4d88770bef71e7ad158bb714d2d3f8cf.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3039549_jpg.rf.92ea163f5851812ba90ee5c062b430d7.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0128.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2992605_jpg.rf.084a6cc827de6848b5e8d5f8657e3048.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00607_jpg.rf.2d7cd5d32d2b8a091b4c660e8f6418a3.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\244.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\266.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (3).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0311.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\01308_jpg.rf.7b52b53cc8175f82882570b7812dec1f.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.345.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1806491_jpg.rf.cd6ef3dc08668837055b8200a248fc52.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00377_jpg.rf.9839f102fef77a25245a89e146696ef3.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.626.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00904_jpg.rf.5a7bca9cabf8390ffba6454be7c8208c.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0334.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2187466_jpg.rf.2e3ebd3e50dc017520776b22ef652cdc.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.548.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (30).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.638.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0319.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00099_jpg.rf.605577e88f381ba69db0183135f98518.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\60.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2224099_jpg.rf.22c105f77d720a0096917a075c580e5d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00559_jpg.rf.bfdb5c7406fc5dfa8c720024264da658.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2382016_jpg.rf.76325d9f56445b73a7bd1bc65233bace.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3324050_jpg.rf.92a6c768e0e5132d0b29feed7d2dec95.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.723.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1633289_jpg.rf.9f00d4c2ccf75f1ddf3492881d4777aa.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.694.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\IMG_7016_jpeg.rf.5930bc7c49d671792cdf51345467db8d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2511911_jpg.rf.0401c66e515d3a6e7e33654d1e086a99.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\281.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3425999_jpg.rf.564eb771ecec7a91969e60014df603c6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.606.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\307.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0415.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\277.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images11.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0421.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\296.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3798959_jpg.rf.8a1f8e926921f2f9d9e606233628ec92.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\140016_jpg.rf.67e8581052ef25cf52bea35c7992370a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2852301_jpg.rf.4fad4e20b0a0688bac0db388b5e701a4.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\556507_jpg.rf.746fa025f2ca51ca847626a25990d7a7.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0382.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\unnamed-1-_jpg.rf.f0337a8a1c0581a8680ccd66b7fc4092.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\73.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\898119_jpg.rf.f712258b6965752989c291c105c8fe8a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0433.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\241.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2521769_jpg.rf.d52305955cefc86bf0bb99c308cfc5f8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\717350_jpg.rf.ff31d39e2fc0ea18ea357f5b9eb0a7c5.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\240.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\129666_jpg.rf.761f6353246b678d34ec509d90947a77.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3644733_jpg.rf.699f75c90a68c2948542db65ba19af67.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\94.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00396_jpg.rf.cbe4ebc25d90de4975951fe07bd17a9b.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\223.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2276783_jpg.rf.21fa3df2fa681c325d608d94595d514f.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0329.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0440.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (76).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3193599_jpg.rf.d03e2d03f24db37eeeb3f5db51ff491e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00105_jpg.rf.cb5ed27f8bdc94926af9454839c17964.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2157510_jpg.rf.62ceef573a4e2aa644ebb73d23d7ee1e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\11297_jpg.rf.351615abab60dbcb1bc967f82a512014.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1265335_jpg.rf.dd012479207f4e1103698d4300449953.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1555015_jpg.rf.d89b9355f2b7c7c2af3599808d11b708.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\50.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0410.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\401979_jpg.rf.367c700eef38f21cd4dc4450811c695f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\242813_jpg.rf.8ba3d59d69764c530f091ebab7d90757.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2241448_jpg.rf.4277fb59f57b90ea8cb809c751159c18.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1344966_jpg.rf.85552b9c8134de16161f4350eef222c7.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2111981_jpg.rf.c0710199a13a6da46384c236964a5f57.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00301_jpg.rf.5e5529384eaf8e3bdbeae9b4d284ed44.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2640502_jpg.rf.db54260bcd01c2ab967c73bfdf261bd9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\220.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\57.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.771.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\224.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (87).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\01227_jpg.rf.db4b58fe2f8fc87cb2a87fbbb5a41c44.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2754150_jpg.rf.59f1c7d1c2bc471b804feeea8f1f207f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2800325_jpg.rf.c0df5e00c46f5dcb54559416b450bd18.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00871_jpg.rf.01f1513cb5675601a1a18bf8e4c50f97.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\53.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2473559_jpg.rf.17a756c41f344521ddf3eba67cb5c73a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\163039_jpg.rf.5c4abb4dc9bb8c95d6ca22175cb14e7c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3699992_jpg.rf.eed921d82c188093dbb646ce006bb41f.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\unnamed_jpg.rf.753ab8ab56b7a191bc3e4187f952a9bc.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0438.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00695_jpg.rf.ee979dc56e44d263fcf19f6a6ddda229.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\254.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (8).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\105910_jpg.rf.7330b3aef75d4f901a0bafc959d6328d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1895479_jpg.rf.3ec95f5a550c22a6ca13aff849ccb659.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\287.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2667255_jpg.rf.f0b55c8fdb8607c60676c6a434c21cbc.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3379038_jpg.rf.8564b9202cb6aa8a0a1980f8b3168ad9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\88.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3793004_jpg.rf.7bf2616ae3d0d43d5f7d877a92f4a959.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\273.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\82578_jpg.rf.6b2fbe6c5669f9fdbf2c17adc38c61b3.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.692.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1555015_jpg.rf.51480324ac56c0a73358171075168c54.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\38.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.571.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1524599_jpg.rf.b52e7a1e23c3583d747e142588a5b087.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0346.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0318.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3434372_jpg.rf.6a7c326b699f39de255fe4fdfd80ef71.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.516.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.676.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0426.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\211.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3514408_jpg.rf.843bb87aa22a2855101b053697007668.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\34.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (29).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\210.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\22489_jpg.rf.d6537a605544f47f4d63ce97df8b4139.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00871_jpg.rf.3af1eaf64e2179158178c3459f8e59da.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\253.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\244505_jpg.rf.c247d6b1e608ce1ee069bfc799183205.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2508316_jpg.rf.9cdfb242949cca52d91ab7190dcdbb90.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.527.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.378.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00425_jpg.rf.7296e55e06ad0ce66445c1f3db048dbf.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00745_jpg.rf.9316f3ac7b2b552bf14f26884b7db354.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\81.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1260554_jpg.rf.092e4437de03f8ac91c215d6906ad959.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2082495_jpg.rf.299ac7bcc1793af6fc3c38f9f391fa3b.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1686938_jpg.rf.e451724e90f5b0a3d3f4581ffc86a264.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00257_jpg.rf.a454d14377548fe30f82aa91f58da3a3.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0348.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (60).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\300.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (42).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (20).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\338838_jpg.rf.121dae86c5e1727c781e5af51ff21a52.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\985164_jpg.rf.d1a1371a76a615c8d2b283eeb9645849.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3324050_jpg.rf.f131c7f7dcf14aa9006e5e5c8c06cc42.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00867_jpg.rf.f94310d941092a323f4ca8f37c9dc46c.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\177513_jpg.rf.03b322e7038e500184144a77688ea963.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\238843_jpg.rf.e07066903391233b4404b62dcf850e21.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2121603_jpg.rf.a4653f8ef3008632fd295158f3a68c68.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\unnamed-1-_jpg.rf.17d2b18dcd197831cc5bf043c5329d7c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\910419_jpg.rf.6254556a56f56b8a8ef8b68522f5a781.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (96).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (72).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.483.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00724_jpg.rf.c7366a351226d66a769558f961f16133.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2711828_jpg.rf.6000dd9a730c8e2fea0715b4ac6c3e33.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\514014_jpg.rf.be533136a65eea86df55d0a052781752.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (54).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.700.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\514014_jpg.rf.fa435a4f0719017662e8119316d73876.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\910419_jpg.rf.54502328d59240cf6748cf02a6883bba.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (83).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (26).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3830773_jpg.rf.1ac58f5d3f852d89676107de17d83099.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00724_jpg.rf.bb6ef88024005565594425590d204039.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2992084_jpg.rf.d1257ef225a2a31822cecb59ebfe7652.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0321.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2242047_jpg.rf.a55240f241b9024841e9db0bb3d8d892.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0435.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2667244_jpg.rf.e3837e05613419435dc3dc3fe6f73605.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0359.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3039549_jpg.rf.e5b8475075396912c4a17434f5bd227d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\78.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2992084_jpg.rf.dc3a18044b1d922a0859373c6a828d1e.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (92).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\56.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\1983369_jpg.rf.48f8c00301408d46b64967c3bdb4895e.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00473_jpg.rf.731151dc6199a20a139400ba336f79cb.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2003290_jpg.rf.90daf8f687334599ff65f28e43413dac.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0428.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0358.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (16).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1828050_jpg.rf.2bcf1bfe0210bfd0fd7cee4c9d3ed452.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\84.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00211_jpg.rf.681ea9f0226105cb79c6311b588be4fb.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1008941_jpg.rf.08836cdc3f7ce41b40df8db1ec665438.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (12).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.377.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\163039_jpg.rf.63f01524c364a563db5397455b33f831.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2502234_jpg.rf.c3ebaf20042a0a16ac25406b0e6dea4e.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0361.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3906901_jpg.rf.e471dbdfc23ccbd27834649999df5265.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\74.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\1705773_jpg.rf.64910cc4ff115f4fffbd33509b25dbe6.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2667255_jpg.rf.e648ea72800df6f359f563124e0a8a09.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.675.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\1983369_jpg.rf.55ec67c7decb304a39ce98154b5d1393.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00607_jpg.rf.0b28d4193a6bc5ec357ebf06bc65a391.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (69).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\21.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.528.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00483_jpg.rf.5a0a125f0b2089e98205fef10c74130f.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00867_jpg.rf.d245e38c66b18cb294b2abdb0e1ef361.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (64).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.739.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1060407_jpg.rf.aa400c6773de7fcab65e88304417fb61.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2871261_jpg.rf.e923042ec1c8288a94fcb3bbc7a5eda1.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (53).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0411.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (36).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3462250_jpg.rf.87839eb5addcd20069262e8d381e0017.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1248478_jpg.rf.3f3c49548c9c4deb36fd51b73dc41a7e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3366256_jpg.rf.c0e6824970b2d14112891a98a18fbb5a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\108.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (62).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.721.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0423.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2995731_jpg.rf.136c09f32af810a18e56517d5a4adbe6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\11297_jpg.rf.172d9e2cda32437a10003744036863ae.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3550805_jpg.rf.ad12a18e1de3e87db4acfc12a0708ccb.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.462.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00871_jpg.rf.05c4ea06edbd8a2bb37054dff37d3f1b.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00882_jpg.rf.6a189e3dab217928d4e90df7f3a8cb70.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\219.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2003290_jpg.rf.c86dcaccb0039df95b3d8ca5c5464e24.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.366.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\869763_jpg.rf.db993b7cf8219a893e7eecdf9abeb0a0.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.543.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\269396_jpg.rf.a4f1e3d7b60e999d3af5a782c1d1297d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (90).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.430.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00561_jpg.rf.0b585f1c45a2fc6b0138b1f0ae50a9c5.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1524599_jpg.rf.23778a55a649a21b4a2b921985c5353c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2157510_jpg.rf.7c937ff187456045839006bb5493a478.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0436.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\299.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.714.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\717350_jpg.rf.a85d814986e0311a37017e0a5ee1feb9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0314.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.481.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\42.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.770.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\202.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00666_jpg.rf.e9f40e4af11405ee28e9f24a120467c6.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\245.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\IMG_7016_jpeg.rf.d661d811f1e0df0400e28bf7eb9208ee.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\01144_jpg.rf.4e0b86016323c164dfaa46e986a0105c.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.365.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (37).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\5764_jpg.rf.477484115c0991b66a7ef7b9d741d18b.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2473559_jpg.rf.9490ddcde441f612a02b1cec695352af.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3174637_jpg.rf.1aae5cd1b5a37778808a91c870d26cde.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1029698_jpg.rf.fa89a067fb5a0fbf11ec6d172ec82153.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.730.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\52934_jpg.rf.9798c5acc5889ffee971cd01ccd9c696.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0336.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1202925_jpg.rf.59221ce0a9de4e77782c8881d7a190d5.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.360.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.732.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (22).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3772054_jpg.rf.eac0e1ef1b49f6adec9b8c6bb1dbcb18.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0385.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.753.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\1008144_jpg.rf.484f9aae2427e9053676de862fbb3629.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2161321_jpg.rf.93be7cea5b1c280297ba5e188e93e645.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0445.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\271675_jpg.rf.b79f07c923d6405f2e82823e34fae088.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\26.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2782998_jpg.rf.8606fbc398aadb7751eed5c3ef5088b3.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\335474_jpg.rf.40e05b36692d9a2a5639f4717d23b01b.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\109.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.685.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\59.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (47).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2667255_jpg.rf.d1a61c96a9a2284c6da7e41a0d9ee0c9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.593.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\290.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.731.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\194784_jpg.rf.4b993e3b452e4d6d25a6515fca8b45dc.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0352.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\969461_jpg.rf.65db48ea6fa3422859e86b7cb77c25c2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0425.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\11297_jpg.rf.66fea1918317d1fc9b9b8da3d9be8ed7.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0344.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.553.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0367.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.512.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\1742542_jpg.rf.4c93bf6796a40aa23ad44f43b6532957.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\64.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (25).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\930553_jpg.rf.76a09bb9a5f8479db10d0f78a9c6ab1c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1060407_jpg.rf.a0a31618494da9fe849bc6b86c569d1b.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2493954_jpg.rf.d3cffafbc84ad3eec7e66266d27f8e62.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1287004_jpg.rf.d76514e50c564915633e493f2ea18b95.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.330.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\01227_jpg.rf.c2f4a1ef99949cbd6abb187f6e405596.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (89).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\01364_jpg.rf.a080a546e076b2d99879893694a59050.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\67.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (1).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (55).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\235.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1552253_jpg.rf.0c771d4ed7b7bfe032b0cf50f88ea0d8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\98617_jpg.rf.ec9e85791597a15c58cf1f3b2a743134.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.384.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\213.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2760984_jpg.rf.cc65131a65a5b0551209c00b693bc4f1.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3464027_jpg.rf.7cb4c6dc881d72086eb7b89b4b3bd643.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\286.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (71).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2511911_jpg.rf.afd6069de7cfe7e0e4f22a2b29100bc6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\90.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\335474_jpg.rf.26dbd2b6a23eeb408972427b35676613.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2971095_jpg.rf.abb383fadde2f6b6920b4f1406e78ae1.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.379.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0363.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2723529_jpg.rf.96f15fa37229787a439753af1b5a9b2a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2992605_jpg.rf.68dfa0ef7c9aa57dd3874652aef8ee1a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\289.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (17).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\872094_jpg.rf.52e8076619922396f5d53a3e57c75054.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (73).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1691503_jpg.rf.d1b1cb3dfb8f9c6ae1f05fb2cb75ee05.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\76.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1988629_jpg.rf.1dd2e1a2b9f8f5bd5ce45806ec7d59ec.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1964051_jpg.rf.f3286cb03edd296d3d6a92750904932a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2615100_jpg.rf.89b19d67846ad413bf0af30e93b09809.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2855844_jpg.rf.90fba26e89ada56b092d53020c3d07e9.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.487.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\92.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3434372_jpg.rf.734596328b6843cbdedf68a4c16b497b.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3785667_jpg.rf.46647e90b4a119a3bdc38a720ffde89f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\93.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (32).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\65.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00470_jpg.rf.b58958a394cac3af43ada32322e3370b.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2967846_jpg.rf.4543347bc636828c6eac70bd4ad81088.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3758160_jpg.rf.c3afbc50e272fd596a1bcb29d0ef7748.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00211_jpg.rf.40d33c6a3717ca1e73c48f02511f87c4.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\243.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\755968_jpg.rf.ed4a4e9773240f48a4809dfcf98d60aa.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.597.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\265.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2111981_jpg.rf.05482b9d88b94a021fd6dce0d24df336.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1828050_jpg.rf.7eb644d11d5a07e39c8779276a60beca.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2664219_jpg.rf.bad76683ee2a314d345f1fad42cba5d3.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\261.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\796922_jpg.rf.cb320b4f6db16dce15f2c8106eef2a85.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.371.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\54.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3724353_jpg.rf.f2fd70c293d4b17ab713a8990a9dd58f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3785667_jpg.rf.8b570425c3d2cbbc5284f0e08073732b.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (93).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0303.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\320570_jpg.rf.eab029480859f0f26ef18fe3a658145d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00972_jpg.rf.61bebce8946c8409a0eec51d939e1198.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3758160_jpg.rf.e4be87e19ca4118dd5cc693a963edcff.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00882_jpg.rf.4f175a93bb6f6489f844f4ed63fd4423.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1552253_jpg.rf.aa272c1ee5fe5d7d84b09d2c2da6c18a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\217.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3174637_jpg.rf.d6a9d23c90c16ea4ba7007808da15cb8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00717_jpg.rf.ced77665ae50062432efd13db1073da3.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (88).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\65128_jpg.rf.45ac1b1395082d6e468402eb1cb6074b.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\765799_jpg.rf.2ad3fe19bbbffcba1688b089a093349e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\930553_jpg.rf.63ce98fe9def8a9d893bb14364c682b2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.514.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\22.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\27963_jpg.rf.7e9a6395022fd8853ece8ebac989e8fd.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3170114_jpg.rf.dc7daaf4f2439d7192335e25f8a22e92.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\291.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3168266_jpg.rf.d3cdd49fb83079e8d3b2f2c963cfc2b5.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\203.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.756.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00881_jpg.rf.0a403eb00ae4ca7e89fd58d6e7047b2d.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\1983369_jpg.rf.3686cd74cb67e68a26794b34f1deeb19.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\01387_jpg.rf.d1cf05ba574721350382b2cd9e54867c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0398.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1795316_jpg.rf.a5be8411cb3781479534ee1e56024cb7.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\467986_jpg.rf.16cac6bf1cd41c08aa85842f67fd35d7.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\23.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00717_jpg.rf.ca616c8d65ea9995272ebb92b8c56128.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0448.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.383.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2723529_jpg.rf.a9ce3b78f1655ba9306acbd1c7c2f162.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1828050_jpg.rf.cda5083b1edeb34410b9cd335fc93431.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\218.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2242047_jpg.rf.0055f776f64aaf15bb255306cd4f8ad4.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\242.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1083380_jpg.rf.e70213439ebac6d3f0d4ddced48c01ab.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\47.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\276.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\320570_jpg.rf.1a7001a47c428aa7682052b52a0d81af.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3314176_jpg.rf.460462a7af479bfae8a1ed99869c911a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1173913_jpg.rf.3d0b7804e5f39db7907fcbe7122841ec.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0313.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.399.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2014717_jpg.rf.cb8e20e3fcc72de10441e0eef4d04d27.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3430418_jpg.rf.e8d758f3963bfa8842edb7a2f856fcd1.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\796922_jpg.rf.361277eecf9b16cd597a12a824caefcd.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (52).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0389.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.428.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0390.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00396_jpg.rf.d7d880dad73584aac19a7d43233dad52.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2296393_jpg.rf.774ae01a42c59ef162057ed8fcab2b53.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2142812_jpg.rf.c57431b3324a69ba34c0bf2d4103c2ea.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1618659_jpg.rf.145a921fd77238767373ab253bc868cc.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00080_jpg.rf.cea6c37f7af165ffd875ee603d07a00c.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2664219_jpg.rf.940682fde4ebe59409c2b1b94c1f03e0.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0409.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2247711_jpg.rf.c6fc91ae7895675387c6ef149d8f8523.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (68).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3425999_jpg.rf.d7b6adf1d4c050027a0afbf3b1e6a0c8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0330.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1173913_jpg.rf.510f09b21432c788a48ae4521d3f6d62.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0388.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.463.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\304.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\51.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\250.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\1763205_jpg.rf.c48210d6c88dcc7d2f867ab88ef388db.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2924941_jpg.rf.65ccbf637abfb66309090e0ec9913cdd.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2224099_jpg.rf.8db6063b7a4bbda7837470942e46ec9c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\225.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00377_jpg.rf.44b4330268ab32ab1dcb4070ba7a1350.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1336882_jpg.rf.c2df56aedb950cb0f88388ec4e56b443.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\206.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\18.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\1912976_jpg.rf.45a049eee69cf9d8519bf38b44f9f954.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3430418_jpg.rf.903975c81654fe95df11b8bf0602aa73.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00607_jpg.rf.e12a6f0f74d7f044bfc824ba0a5f54a6.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.408.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\918506_jpg.rf.0bbc6b2528f885c42dba6c8fde1d0f85.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (31).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\247.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\66.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\556507_jpg.rf.fca708052549c92391709fd0c0c93777.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0353.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\332231_jpg.rf.c668bf8684663c458cfd66cc6bca7d33.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1988629_jpg.rf.4c53a2d3672bd4f27381b4859d6e9e8e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00257_jpg.rf.1e8c9fd52a75e7e0c86a437453a0d6a0.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\85.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1083380_jpg.rf.8cb86caee6b33d0fb963f5a0ab1b76c2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2855844_jpg.rf.15806dbfae7a2e951661f465df058a08.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.494.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3586083_jpg.rf.c1dc2d56c275de039b18a91de994e954.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\249.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (27).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\244505_jpg.rf.d636d10ccbd0068270815486a80798dc.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3830773_jpg.rf.f22eec9a2896973e5fe65d39ef3503c4.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\01227_jpg.rf.f48a6256258ea8ae8c5dead5bfa48fc7.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0366.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2852301_jpg.rf.5c33cf254c4489f3d70ee49168574b56.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\153195_jpg.rf.6845837e5977e036adb3dd42edeaac0c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\201.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3382880_jpg.rf.ca59234f3b6c6317621f15d3011123ba.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\52934_jpg.rf.740876630b7e0ee1dc07cd7f9742d7c0.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1008941_jpg.rf.7ab6aba653dbefc27f9dac896797f621.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0376.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0365.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2722646_jpg.rf.36e9da1dca629a7c624fe50ba6459fff.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (91).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\52.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0408.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1895479_jpg.rf.b741a9db82342ca903094983ac1a3bfe.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.511.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00666_jpg.rf.02066ac1bb53e940b833556c44d4aa2d.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\pizza_cheese.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2473559_jpg.rf.664e915395d9732af1a8c1adca88d5bd.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.425.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\22489_jpg.rf.3a089fda50c32e6d820415ccd3b9d713.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\796922_jpg.rf.3fa8a21dfa9de2972f9c24a1240a0b3b.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\107.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (97).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.541.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3434372_jpg.rf.0a54ab153976d57d256de113b6f76266.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1287004_jpg.rf.0eea13a7e0f3b789b47669c11c1dc3f1.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0427.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\398812_jpg.rf.35ac0819129f8eff2483a77afceee4ba.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2924941_jpg.rf.e9d20e2b8e1a18d72169bc35f87fbea6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\01310_jpg.rf.bc5220c627fc3b0b8049d9bb45847be8.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2760984_jpg.rf.0222bda048cb08221f771b4aaae822b9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00581_jpg.rf.ec4977122babab29f7d97af5bbcb369f.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\35.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\pizza5_jpg.rf.bc29292f3d438cfd860790e2dbad7a1b.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00882_jpg.rf.c9524fc3e3fbd1425f309735fd443519.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0360.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (100).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0429.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3669673_jpg.rf.6f94cc4a4d961038462ccf8f6ec21f14.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2111981_jpg.rf.2b13d8e5a25cc6cb57ae7cb498a9d1a5.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0307.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\39.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\209.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2871261_jpg.rf.3c41436276f31d535cddf66d87201c50.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00425_jpg.rf.dfca471c25f3f1296e1c1a6f039bc08b.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (45).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (19).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\207.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.380.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00470_jpg.rf.388c3fcfe5a0fec11b5b909c9f7198fd.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1512557_jpg.rf.dce97baff41594a2a1f9b1810d638b7a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1686938_jpg.rf.9aa9f1dea8a0a41cacf64eed5c261559.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\45.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0424.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2572488_jpg.rf.767a340b2faca0e67698b5c84085fe91.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3772054_jpg.rf.0630dbd9f0342ef5e09384a76151737d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\138961_jpg.rf.d73185e05a820f5f71fa41cf63c5c655.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\264.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\898119_jpg.rf.cced7e7614195e8f870c6b85c757b154.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\263.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2995731_jpg.rf.a1c9a2514cba7bc2c9ac5ae86c8131e8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\214.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00710_jpg.rf.c4a08daf135efe902cf8a38067372544.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0420.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (95).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\248.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2217956_jpg.rf.3804ed33622775452b384d57db084bad.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3793004_jpg.rf.977452259922c37d203b89fcf0cca4aa.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\0.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00105_jpg.rf.5dbd5b7ebc79277cce1935475ff647cb.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0422.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\01386_jpg.rf.c239d3c6fecad02fc5151d79198f85e0.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2667244_jpg.rf.250237d0790d25e8ede09472a50c5675.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00881_jpg.rf.0f5071b793ae4085dded86ce273765a9.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\16.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3913912_jpg.rf.dd63d9bbfe1bfc5f970efaa0876c9980.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\195160_jpg.rf.c18c00d4ac4fdfbabc8fa8e2589afa5f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3174637_jpg.rf.79c51303ce15c04ddc26b79dda923e5f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (78).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\05744_jpg.rf.98e74d23c752f919065550f9e10439be.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.392.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00581_jpg.rf.efa8baa8f62415091e080105c392e442.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0315.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.740.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\61.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\739735_jpg.rf.74088cec450f909ffdbf0f302b8cfcd6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0370.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0349.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00427_jpg.rf.00b6f932f607d366cef55124ce06b50b.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\5764_jpg.rf.f24b929efc7405b54a37923b22dc801f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0342.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.717.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\36.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\284.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.419.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2990023_jpg.rf.051254522319cdb0b1e58f88298cdb02.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\271675_jpg.rf.ebe3e6dd1fb2e55a4031df2abe752cd7.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\398812_jpg.rf.b31d9948abe146c85e7a99d4a635b3ac.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\271.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\97.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.679.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00105_jpg.rf.98078508055dcb47a1e3a386fce402c0.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0392.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3772054_jpg.rf.c5ea48d3c3a71418b85f016617afd934.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2082495_jpg.rf.a6ead575193e971f3dd1903b6674cecd.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\476421_jpg.rf.91dc3cb76fd6ff715207cfbc3e64e9ef.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2995731_jpg.rf.bcf9f847b793f85d6f60f10fd1b8bc0f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\41.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0449.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2241448_jpg.rf.df1cb6ec1b58668e13c9e7cbefc0969c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.724.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0343.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00473_jpg.rf.5bb1873f8be8760d5fd057793430a7cf.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2821034_jpg.rf.2bfad0e4d7362b9997cb5c68b5812fc6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2640502_jpg.rf.6428a92d408212fa3df65c53cf4f5e41.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0065.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\194784_jpg.rf.3f9bb43147de8889608b5c866abe65dd.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00561_jpg.rf.1ef36bf130e6b0982d0e7769c2be15fa.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3644733_jpg.rf.da8c74d21eb61bdc875caeaecf21ed11.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\05.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00483_jpg.rf.963cae4d308111a6071f9cf4895f26a4.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2922019_jpg.rf.f0ae8b0de72ea37cee8ba2388c67f58e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00745_jpg.rf.158b453adf46e414ecee409d0a5b59a5.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1633289_jpg.rf.747cb3ce602e92e50339c13e8b290ae7.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\71.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3023774_jpg.rf.23194ecd42fad7a6b6b9d9e36af85572.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\195160_jpg.rf.29aa4603a7172f51f91ec5118d654957.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2164255_jpg.rf.c8db8b5e879b4295d2ee89350e1967df.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0328.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0444.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\unnamed7_jpg.rf.b3929090102ae1900ea51471cd60b584.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\87.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\x.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\37.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.691.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\104.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2760984_jpg.rf.38598c44d9f935fcc9d9a7464d845648.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (33).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1202925_jpg.rf.75e3f801cf678cef85d16e84be923f62.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.608.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1280320_jpg.rf.d2863c73317c2ad02d69350329b8565f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2082495_jpg.rf.b9e51ba93a1ff87be91a318f2945ece2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (65).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\138961_jpg.rf.cc7b9768df2a1ce4a46087b5d2e66bbf.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\31.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3168266_jpg.rf.e2bacf816b024abf913484129ae94ef3.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (94).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1029698_jpg.rf.5ce7f344471e6f644d4a5a9f3a580b83.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.332.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\58.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (80).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (34).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.464.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.486.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0387.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3324050_jpg.rf.21d550bcb3a0dcb8b5795404f307e9c5.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1270986_jpg.rf.a823b7eb7d20a3deeae46105273e11d9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (23).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00724_jpg.rf.db8ef1c5ea1f43fbd9521b552e506361.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2519291_jpg.rf.fc9fce5ad8da514150b2598af6f745c7.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0306.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.589.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3793004_jpg.rf.b19a262ebe4992022585b1d546765011.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00559_jpg.rf.2a6c43f9bb2c2b6c5e37a1aa0fc61969.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0379.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\306.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3798959_jpg.rf.87ae791ab14f6d178eabd865b2e013f1.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2241448_jpg.rf.62bb428238fdd184e534b1692486c821.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\63.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (40).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3644733_jpg.rf.b8e3d3045e9ca53ee17d686afb0bfcb6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1265335_jpg.rf.da7cfaaa1f27cf3af59c7f875d42036f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2285269_jpg.rf.125d5e415708c2cf028b5811653f7120.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00301_jpg.rf.cfe5aa2161d88bb6679e97f1e4ea4e01.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2101820_jpg.rf.630f8366ac10aa4c569783f50429b6e3.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3170114_jpg.rf.3ca7e2a9541e79deb82b2bf51776d6aa.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.722.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0333.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\pizza5_jpg.rf.022406292e0163ce4847718e874a97c5.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00710_jpg.rf.00e25a65e77e5901e40f28d42e1f7698.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (50).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\717350_jpg.rf.3f07c607d6ed08787c836fc97a34c1f2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0431.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1287004_jpg.rf.27fd115ba9c7d9440daf8e1c90ec0ae4.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\338838_jpg.rf.68ffffa5c02f21c9fc560dfeacc58e22.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3660716_jpg.rf.d3db41a29f8dce93ca64eb12a3cfe327.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\395034_jpg.rf.f0c750c0118c07fee8b7a2155ce9e7fe.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\252.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3425999_jpg.rf.c9760fbe0fb5c2da02066fdf51835e96.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\163039_jpg.rf.cae9660c30fd81b1c68d0167b4b0b2ac.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\pizza5_jpg.rf.763d19f98b8c5c2e2f5e1748188c4c31.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\236.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\unnamed7_jpg.rf.f78299688912da732b5f7a16dab9fa6e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\303.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\275.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.540.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1512557_jpg.rf.1c83a459c9fec88366418ae7964c72a8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2619955_jpg.rf.da0bc655cf690e3bde727f6909fa4a4e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.435.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\256.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3049449_jpg.rf.70bd4ad17b6699e47395bc80bfe2a546.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\332231_jpg.rf.55648b9b17c2d506519d7265bb69e9ef.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0373.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (35).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0107.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\28.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\140031_jpg.rf.6db55a31d872375959830a5ed434a132.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00301_jpg.rf.1e3c21ded02aa2ca25802867c5394a37.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\103.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\33.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.482.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\110.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0312.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2739100_jpg.rf.e45184340e2771c74bab8615fda250ab.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1008941_jpg.rf.9cc9e4f62a78cd905ef1e2c95633a9c4.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1686938_jpg.rf.bfefab4abec5bef8d2978cccf78f6875.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\522543_jpg.rf.16bbcc89ad9807e03141a6036b538d51.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\979955_jpg.rf.855f7c54b78fb821e621d381a133440a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\44.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2508316_jpg.rf.34277f2511e9f7449c7c0ef942336bca.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3464027_jpg.rf.1c5cb6bddaa1514f411efb2f660addb1.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\221.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.403.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3261551_jpg.rf.1cc0bec3cb5088f5d9be3853e3d23536.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\283.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0304.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2615100_jpg.rf.03191b6b204e434c472a2fa693a0ff6b.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00427_jpg.rf.da64663024f95b6d76795b23723d1b1f.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.536.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (48).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.402.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1988629_jpg.rf.0a4ff7e8dbfb20c24f50f3c202121a28.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\unnamed-1-_jpg.rf.49f798b532266a3ea6c5e8f6112d1df1.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\721383_jpg.rf.60b9d8ba0815f8c8242c8d16737a7d41.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00211_jpg.rf.033db179fa2e098b3a9cde6d7b432ca6.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.373.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\278.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00710_jpg.rf.c1857f8a839b9fe2dc58e99e1fe85836.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\98617_jpg.rf.a06e9b2eb99223f67d2c1524823d89e3.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\195160_jpg.rf.2d37cdbb1c10e28ef59669e48010e7fb.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3586083_jpg.rf.a13b8aef48780da8b41d5ef13dacdc94.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.452.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00425_jpg.rf.e8404d692d8cafaef60469f792c03dc4.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\5764_jpg.rf.44ceae782ce334ce84b5cd524ce657a8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\467986_jpg.rf.a709b0cdb6bba12ab871fb9454df12d9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00695_jpg.rf.5641494b12226e79d2e2fddcaa734664.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.586.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.674.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\765000_jpg.rf.a4178d5e98e42def896a18583242499a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\86.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.390.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\358178_jpg.rf.6a70ae10825c48f78d99bf751781530e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3039549_jpg.rf.02b481461d514ce28f2cb295b106ee9f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0111.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\237.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\101.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2855844_jpg.rf.7f9077866a9595a76c2821e70302cb39.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.648.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.393.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\212.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.448.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3092704_jpg.rf.390d86d6d43b8f9c06a3c518cd3772b9.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\930553_jpg.rf.766bf6b96abe2dcd56a40cff3fe52d1d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1183595_jpg.rf.e6670355525f45e3c11de763dddcf426.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (66).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00483_jpg.rf.f881b225e80e18eaa3f028cdfb1c8729.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3830773_jpg.rf.1c218ac203b7ccc640ebd24395fd3f05.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.673.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\246.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2231356_jpg.rf.487fb6eaa537712cd3db802861f0882e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\375401_jpg.rf.95b933e9790ca170b20bc510c6454ae7.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3193599_jpg.rf.5e28c55bf242ffb716b64321aa1bf17b.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\91.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1691503_jpg.rf.d6f4100cd681257c5e908bf17a0d58d2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (85).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1691503_jpg.rf.a6523bd2cff4d4ed46f0149126fd7d01.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2871261_jpg.rf.37e256cf688fff5b66e5124ec2e545af.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.637.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\270.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0338.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.523.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\918506_jpg.rf.5597e37ca15c4cb614b552a7ac3089b7.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.705.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\293.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\138961_jpg.rf.55144b1348e3670dd1f590db8c0e370d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\24.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\292.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (49).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2217956_jpg.rf.c229afd338884cc248c45760f8486678.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3724353_jpg.rf.126507457065d6efa5f556bd82119725.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images10.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.741.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3758160_jpg.rf.833087718d67ef17f5e60874496e2dd0.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.604.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\01370_jpg.rf.ae7ebd434d55c9aacc2d8a35dc05f325.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3193599_jpg.rf.5c2989b000ba869cd2d4ae0c15deae73.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1029698_jpg.rf.10dc7407c40223d1af5a9373b43f77dd.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (81).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (38).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\01365_jpg.rf.9b72dddbf4799e6bb0e719cf2393bac6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0355.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.415.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1083380_jpg.rf.1697c5fe09b548113875682c78fcd09c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\335474_jpg.rf.505ef6075dd4d5bb002bbf1e3d18c2d9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2247711_jpg.rf.43cb92c619b80634a256b70fe454261e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\985164_jpg.rf.c1b45a4559f704c8bb88cc1a38b353a8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.381.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00427_jpg.rf.aca3207089b2e4e96c67b13548a693e8.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (63).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\52934_jpg.rf.430587062d8a6c9c833bd584d7ce7f62.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\32.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\728260_jpg.rf.7847adfdc0e56652641f976e7e5af6f2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.453.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0357.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\unnamed7_jpg.rf.68e8c049c4d5ee953ba53c0d23291c17.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\69.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3314176_jpg.rf.bd3e100a0d3891d67c08b6d7ce9620c8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2279642_jpg.rf.b2fc849e5cc1bf3a5d6aad127f9b8ad5.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0394.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00717_jpg.rf.52029c247c0d600cda8c3178a9d29a73.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.653.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.513.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (4).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (79).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\14.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.480.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1524599_jpg.rf.54265da894a4f74974d71e3371a0626c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (58).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2247711_jpg.rf.5fc262f0a004672b306bdf02c82e2dcc.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2971095_jpg.rf.c9ade2fc51fd6710de85ecaf94d38675.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.598.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0309.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.669.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\216.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0351.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0375.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\208.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\01357_jpg.rf.f20280e6343dbff35a6d309b90c20b04.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1618659_jpg.rf.be24b11401db73a7e058251f2b189cb5.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\98617_jpg.rf.50a48227c335f9698893adabdfe71b57.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00561_jpg.rf.4464362c15e3f0a6f004a47fc336e35b.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\387697_jpg.rf.4be0c31b8c61183466924de1b50bc388.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2722646_jpg.rf.f67b29005ac86ed2f04d9ed573a8a846.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.544.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.388.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (9).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2992084_jpg.rf.26b253291666d056f2b6f72d8bee10bb.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\98.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0371.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\295.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3913912_jpg.rf.e5d64b16c4ac6fb0bfd2705c3d92ed71.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2924941_jpg.rf.55627c32f64b2f080c3386fc6b85dff2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\95.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\1763205_jpg.rf.5b9b1ff4ed140f249fbb358d05ee0aab.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0341.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3464027_jpg.rf.1add3c97903bb3bd821b8e4e4362dba2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\514014_jpg.rf.d0f87f5d223768950160aa3eb3ead435.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\72.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.522.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\285.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00581_jpg.rf.fd81e701d889c16b2f32dc9ed62ca73b.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3785667_jpg.rf.8315031e4de1f12b346326c1c0ea8163.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\40231_jpg.rf.ad808044b9bbc90c90f874fc646556fe.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1633289_jpg.rf.9a5617f12f30e7702ce9524630986d57.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1247645_jpg.rf.6ff650aa1d1dce8399923b58f8a176de.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2285269_jpg.rf.045a1b71a67dac3e1836a1d5a3eb2538.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\401979_jpg.rf.d89a9b8e122dbb7e42b850172ceca408.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2508316_jpg.rf.62b985313e01c03461a67943a6b096cd.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (84).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (21).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.391.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.368.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.751.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\153195_jpg.rf.bb266d7770969fa72d2c075beb2a2b96.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (75).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1247645_jpg.rf.96b9e5de471e7b8f737df09db4da5ab3.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\83.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2739100_jpg.rf.a5374c250cb2261655e0d114108da5f8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0301.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0324.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (67).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.445.jpg",
+      0
+    ]
+  ],
+  "val": [
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\279.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3767723_jpg.rf.cee7572a5cf819429c22c8b4e1823407.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\01118_jpg.rf.a580210c9f46a489ea7526baf7a8ea74.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2852301_jpg.rf.4845e3c8d51cc3a335304e41d8f1b9a6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00043_jpg.rf.2f7591bb9e0e35e239150d7785cb199e.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\65128_jpg.rf.f596220107e94993ebfbf27e17298ac6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (99).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3827990_jpg.rf.044171a65791965e02108760cd65bb32.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\258.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2142812_jpg.rf.c1cc474802656f4e616fe99e3d7d2930.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2615100_jpg.rf.e51c0fdeb53cdfbe2d2fdb24d87f96f4.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.465.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\80.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.772.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1260554_jpg.rf.6203b6ff1c2bb85765a2e6862bf24997.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\282.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0332.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\415551_jpg.rf.10c72be271e6cb1ffbfe4beffecb0079.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\27963_jpg.rf.15d8ddaaca54a13de1e163528999d9a6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2990023_jpg.rf.8ca0db5ef4d539398f222e320c3cbb69.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3798959_jpg.rf.66de1d8db1f345cb2569e8064ea2a657.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.697.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\232.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\918506_jpg.rf.e3d046e2a475ff58784a75e3bab303b5.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2097315_jpg.rf.36bde19610e898eb8e181b36c4f52aeb.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2902766_jpg.rf.b6232048dab185e627aaba81822049c3.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.588.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.678.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.521.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1618659_jpg.rf.752ba3738e09d0f50be8aa389949fc18.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1895479_jpg.rf.05de3d27ff5f19a099f0713704b92d28.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0414.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\242813_jpg.rf.4f58afa68aec958324732e518c8b188e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3168266_jpg.rf.32004435874db91095b3dbdd117ab1ec.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (39).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0400.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0378.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0327.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\724445_jpg.rf.a8c4ab69a8ebb46580997579597da35a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00695_jpg.rf.c35ffe94685ec4d0c809845d0d8592d4.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00377_jpg.rf.fbcdb47c4fd490359d2cda4ecb6ad377.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (24).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.668.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\59445_jpg.rf.843508b95cacf2a0c09b9aa821a030c9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.557.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3379038_jpg.rf.9f950768fd7b27b7ff8dd7b8df9e09f2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\unnamed-3-_jpg.rf.310cd68f6ca4d9b402d3a7b8bdccbfb6.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2754150_jpg.rf.15f4562345b0512fbb86703ed2dd4377.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3586083_jpg.rf.92a356203f3f354cdd20caccb8a40f91.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2142812_jpg.rf.c073c176cd9458c8c6fb3b2a4a302000.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images12.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\75.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0377.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0374.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00257_jpg.rf.61ff9321f17dd1e85b64178fab74f8bb.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2279642_jpg.rf.c05a29cf8268bca1d0ab1b8a26df39ab.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\2285269_jpg.rf.fd5f27928e456c7d3a84d7ea7c04272e.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2511911_jpg.rf.fedfdf6786aec3964d8465b453944146.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1552253_jpg.rf.b86bf13931e235cdb7423ebd8b27fa0e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\05725_jpg.rf.67f9796d12f57aca03167ed9f323c56c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2279642_jpg.rf.32156f2405815670121033e4314ec258.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.427.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2490163_jpg.rf.ee832ff998448f3e3ab3c9f3c419ba25.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\IMG_7016_jpeg.rf.233b153636d52addf99a8f6582753f6f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (57).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00396_jpg.rf.2625a9102483f72f46b56a5908b5fcf3.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (13).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.466.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0331.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (61).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\01352_jpg.rf.12d508f9d16f0d4c8fc3d1b27c0499ba.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.411.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (82).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\255.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2296393_jpg.rf.0fb76ddc57ef07b4bed08ce93981037a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00559_jpg.rf.9e2214797ae5f07826397cd9d73313ae.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3084957_jpg.rf.fa4f2c2a7b43e10ac4c07d12d5128ee3.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\105.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3430418_jpg.rf.8edd4a09053880092d4432cf080362a1.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.704.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\46.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2296393_jpg.rf.897098c54b6891861e78007aea583a7c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2723529_jpg.rf.3ce74b8b2a76df10e1c7ca3ff4725a66.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.479.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\233.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.749.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\401979_jpg.rf.aba4ecf27dd5ea81d34dce05d745600d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\280.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00881_jpg.rf.338a05f0a890514add2c2068d4e8cb29.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1964051_jpg.rf.c10c9828c6a4f66c8d047cc46990ba54.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\102.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2217956_jpg.rf.4ba44a418abd33614037fd99988b2d5e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2164255_jpg.rf.d781a73e80601598a9775d7d1f5e1597.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0391.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\177513_jpg.rf.8cfc21ba7a5e07771663f8e7db3a5615.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.510.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\22489_jpg.rf.e2d69286cc925595e95ef8474bc820d8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00473_jpg.rf.634dc24b7c05e36b40c4e66b975cac26.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1555015_jpg.rf.0e95e80fef953781bc47341a8a698499.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2664219_jpg.rf.ca22e9a235bcc4384b568e634736afc8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (59).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\19.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\759873_jpg.rf.edb17d657b7b07e5330b9018fd768195.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.413.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1137400_jpg.rf.7cb727b17261781a0c2b1e9234b4bca1.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\82.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\741883_jpg.rf.31c9b1815a255a6472d148238ee97580.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2606727_jpg.rf.a1e1c2c4f34e479a8f669c3ca203448d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0317.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (2).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\62.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1512557_jpg.rf.02a5cb755c5b0d9912a7eb0a64e3e5d9.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\30.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.440.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.585.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0384.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0347.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.558.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\298.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\3767723_jpg.rf.791d7650152da6b76168fb516458528d.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2722646_jpg.rf.3a04dbeca34ebc00d5d70b81342078c3.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\242813_jpg.rf.77b50b88ff516dae1f029e7f328b938f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\320570_jpg.rf.c5ad7579d4695f5b07cdfc3b9cb50cc8.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (74).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (18).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\260.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\40.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\204.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\27.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.370.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (51).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00650_jpg.rf.adc7fd731d2a21809e769c92ad53f5f9.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (44).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3873326_jpg.rf.68090c6564cbf801887044679bac97ad.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2224099_jpg.rf.b71bf8acad9a07c363886530dd9e513c.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (11).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1247645_jpg.rf.fba41311cb7a4b4a059f01f2b588dd7a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\272.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\238.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\985164_jpg.rf.01871a17fd73e4040b023b007456d083.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\309.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.421.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\43.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2990023_jpg.rf.ef31bba703ac42adf4cd8456524c958d.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\467986_jpg.rf.69693d022b2318c7d5d6da845a1c34cf.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\301.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2605343_jpg.rf.3b71704c83bb837fc653f3dc582378d2.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\430118_jpg.rf.26ca904932696e40ddeb5d44f0d3d4ed.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00904_jpg.rf.186849c4f52aeae73001214a0edcbbbc.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1060407_jpg.rf.941b0823349e4a827350ff16616bc32a.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\106.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\70.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0416.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\00745_jpg.rf.e900f4ed17d07ce49d08ee4ea700175a.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.763.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2231356_jpg.rf.7824bb6349348b33bcb5ac86f7113b1f.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\979955_jpg.rf.e47a5373a95b495c7fd1e0707baa3175.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\2739100_jpg.rf.217bd32179d3c8cf8e1af5297069fa15.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3724353_jpg.rf.1579ab7fa23b5d276015665ceb6acf41.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0354.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images (86).jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0362.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\96.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\614236_jpg.rf.88b1468374ca35584b87ca9234c7406e.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\274.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\3906901_jpg.rf.1d37480273a05519782b2c38d1eb86ff.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\1098197_jpg.rf.58ab62ee197e73cac8136ae0d0d33c41.jpg",
+      1
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\100.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\cheese pizzas\\plain cheese pizzass\\images - 2026-08-21T110229.422.jpg",
+      0
+    ],
+    [
+      "c:\\Users\\OEM\\Downloads\\meat pizzas\\plain meat pizzass\\image0337.jpg",
+      1
+    ]
+  ]
+}
